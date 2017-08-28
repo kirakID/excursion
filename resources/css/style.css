@@ -1,9 +1,6 @@
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: White;
-  text-align: center;
 }
 .soon {
   color: Aquamarine;
@@ -13,16 +10,14 @@ body {
   background-color: black;
   text-align: center;
   color: White;
+  font-family: Verdana;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
-  color: White;
 }
 p {
-  font-family: Verdana;
   font-size: 21px;
   color: Gray;
 }
